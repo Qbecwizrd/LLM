@@ -1,0 +1,11 @@
+langchain_groq
+langchain_core
+fastapi
+uvicorn
+langserve
+sse_starlette
+langchain_community
+langchain
+langchain_huggingface
+tf-keras
+bs4
